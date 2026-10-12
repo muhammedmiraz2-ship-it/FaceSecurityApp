@@ -84,11 +84,12 @@ Core face detection, recognition, registration, and access-history features are 
 📱 Application Screenshots
 
 1. Main Scanning Screen
+  ![Main Scanning Screen](screenshots/01-main-screen.png)
 
-2. Face Registration
+3. Face Registration
 
-3. Face Recognition
+4. Face Recognition
 
-4. Access Verification
+5. Access Verification
 
-5. Access History
+6. Access History
