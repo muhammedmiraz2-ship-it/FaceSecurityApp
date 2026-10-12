@@ -86,10 +86,14 @@ Core face detection, recognition, registration, and access-history features are 
 1. Main Scanning Screen
   ![Main Scanning Screen](screenshots/01-main-screen.png)
 
-3. Face Registration
+2. Face Registration
+  ![Face Registration](screenshots/02-main-screen.png)
 
-4. Face Recognition
+3. Face Recognition
+   ![Face Recognition](screenshots/03-main-screen.png)
 
-5. Access Verification
+4. Access Verification
+  ![Access Verification](screenshots/04-main-screen.png)
 
 6. Access History
+   ![Access History](screenshots/05-main-screen.png)
