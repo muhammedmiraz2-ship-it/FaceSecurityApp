@@ -80,3 +80,15 @@ BCA — Robotics, Machine Learning and Artificial Intelligence
 📌 Project Status
 
 Core face detection, recognition, registration, and access-history features are implemented and tested. Further improvements are possible.s
+
+📱 Application Screenshots
+
+1. Main Scanning Screen
+
+2. Face Registration
+
+3. Face Recognition
+
+4. Access Verification
+
+5. Access History
