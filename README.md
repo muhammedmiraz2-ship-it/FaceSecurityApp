@@ -90,7 +90,7 @@ Core face detection, recognition, registration, and access-history features are 
   ![Face Registration](screenshots/02-main-screen.png)
 
 3. Face Recognition
-   ![Face Recognition](screenshots/03-main-screen.png)
+   ![FACEGUARD AI - Main Screen](screenshots/03-screenshot.jpeg)
 
 4. Access Verification
   ![Access Verification](screenshots/04-main-screen.png)
